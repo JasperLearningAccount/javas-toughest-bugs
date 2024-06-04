@@ -1,5 +1,5 @@
 # Java's Toughest Bugs
-This is the repository for the LinkedIn Learning course Java's Toughest Bugs. The full course is available from [LinkedIn Learning][URL-lil-course].
+This is the forked repository for the LinkedIn Learning course Java's Toughest Bugs. The full course is available from [LinkedIn Learning][URL-lil-course].
 
 ![Java's Toughest Bugs][URL-lil-thumbnail]
 
